@@ -31,15 +31,17 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/apple-1237-1174963.png" width="100"></td>
    </tr>
   </table>
+&nbsp;
+&nbsp;
+&nbsp;
+  #### Experienced senior front-end developer with more than 4 years of experience in implementing large-scale projects. Implementation of projects with different technologies based on project requirements.
   
-  ### Experienced senior front-end developer with more than 4 years of experience in implementing large-scale projects. Implementation of projects with different technologies based on project requirements.
-  
-### A deep understanding of the architecture required for a high-speed, bug-free application.
-### Mid-level developer of cross-platform mobile softwares with more than 1 year of work experience.
-### Ability to communicate in English and work in a team from different parts of the world.
-### For any remote cooperation, you can send a direct message through LinkedIn or contact me through email and WhatsApp.
+#### A deep understanding of the architecture required for a high-speed, bug-free application.
+#### Mid-level developer of cross-platform mobile softwares with more than 1 year of work experience.
+#### Ability to communicate in English and work in a team from different parts of the world.
+#### For any remote cooperation, you can send a direct message through LinkedIn or contact me through email and WhatsApp.
 
-## Email address: Mohammad6vakili@gmail.com
-## WhatsApp number: +989210375967
+### Email address: Mohammad6vakili@gmail.com
+### WhatsApp number: +989210375967
 
 
