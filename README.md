@@ -41,7 +41,7 @@
 #### Ability to communicate in English and work in a team from different parts of the world.
 #### For any remote cooperation, you can send a direct message through LinkedIn or contact me through email and WhatsApp.
 
-### Email address: Mohammad6vakili@gmail.com
-### WhatsApp number: +989210375967
+#### Email address: Mohammad6vakili@gmail.com
+#### WhatsApp number: +989210375967
 
 
