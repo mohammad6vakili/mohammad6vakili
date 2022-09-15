@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋. ![](https://komarev.com/ghpvc/?username=mohammad6vakili&color=blueviolet)
 
-### Thanks for visiting my Git profile.         ![](https://komarev.com/ghpvc/?username=mohammad6vakili&color=blueviolet)
+### Thanks for visiting my Git profile.
 
 
 
