@@ -43,6 +43,4 @@
 
 #### Linkedin address: https://www.linkedin.com/in/mohammad6vakili/
 #### Email address: Mohammad6vakili@gmail.com
-#### WhatsApp number: +989210375967
-
 
