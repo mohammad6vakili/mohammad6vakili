@@ -43,4 +43,6 @@
 
 #### Linkedin address: https://www.linkedin.com/in/mohammad6vakili/
 #### Email address: Mohammad6vakili@gmail.com
+#### Mobile number (TR): +905379812346
+#### Mobile number (IR): +989390624049
 
